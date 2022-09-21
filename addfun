@@ -1,0 +1,9 @@
+  //addtion by using function in jasvacsript
+  <script>
+  function sum(a,b){
+  var c = a+b;
+  retur c;
+  }
+  alert(sum(2,2));
+  </script>
+  
